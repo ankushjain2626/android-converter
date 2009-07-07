@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, conversion</string>
+    <string name="app_name">ConvertAll</string>
+    <string name="Loading_notice">Loading Application</string>
+</resources>
