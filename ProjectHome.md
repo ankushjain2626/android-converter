@@ -1,0 +1,1 @@
+This program is a unit conversion tool for the Android phone platform.  Inspired by convertall for linux.
